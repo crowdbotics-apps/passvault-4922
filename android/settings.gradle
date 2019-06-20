@@ -1,0 +1,3 @@
+rootProject.name = 'passvault_4922'
+
+include ':app'
